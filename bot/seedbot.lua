@@ -224,6 +224,7 @@ function create_config( )
     "set",
     "get",
     "broadcast",
+    "wordfilter",
     "download_media",
     "invite",
     "all",
